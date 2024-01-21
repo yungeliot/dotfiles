@@ -1,0 +1,6 @@
+2024/01/19-18:38:52.729 5b28 Reusing MANIFEST /home/eliot/.config/chromium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/19-18:38:52.730 5b28 Recovering log #3
+2024/01/19-18:38:52.744 5b28 Reusing old log /home/eliot/.config/chromium/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2024/01/19-18:39:07.441 5b28 Level-0 table #5: started
+2024/01/19-18:39:07.464 5b28 Level-0 table #5: 2618481 bytes OK
+2024/01/19-18:39:07.466 5b28 Delete type=0 #3

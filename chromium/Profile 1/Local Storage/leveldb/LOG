@@ -1,0 +1,15 @@
+2024/01/20-23:32:41.918 4 Reusing MANIFEST /home/eliot/.config/chromium/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2024/01/20-23:32:41.920 4 Recovering log #14
+2024/01/20-23:32:41.923 4 Reusing old log /home/eliot/.config/chromium/Profile 1/Local Storage/leveldb/000014.log 
+2024/01/20-23:32:47.886 6 Level-0 table #18: started
+2024/01/20-23:32:47.887 6 Level-0 table #18: 18042 bytes OK
+2024/01/20-23:32:47.889 6 Delete type=0 #14
+2024/01/20-23:32:47.889 6 Compacting 4@0 + 1@1 files
+2024/01/20-23:32:47.909 6 Generated table #19@0: 143 keys, 722867 bytes
+2024/01/20-23:32:47.909 6 Compacted 4@0 + 1@1 files => 722867 bytes
+2024/01/20-23:32:47.910 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/01/20-23:32:47.911 6 Delete type=2 #10
+2024/01/20-23:32:47.911 6 Delete type=2 #8
+2024/01/20-23:32:47.911 6 Delete type=2 #18
+2024/01/20-23:32:47.911 6 Delete type=2 #15
+2024/01/20-23:32:47.911 6 Delete type=2 #12

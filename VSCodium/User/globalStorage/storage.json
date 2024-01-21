@@ -1,0 +1,21 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/eliot/Insync": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "80ae4495c2a8df329f70e8bc02a5d4e0fd0ec4193bfe617e926988ab5cf60620",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/eliot/Insync"
+            }
+        ],
+        "emptyWindows": []
+    }
+}

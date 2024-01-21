@@ -1,0 +1,6 @@
+2024/01/19-18:38:52.514 4 Reusing MANIFEST /home/eliot/.config/chromium/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2024/01/19-18:38:52.515 4 Recovering log #11
+2024/01/19-18:38:52.516 4 Reusing old log /home/eliot/.config/chromium/Profile 1/Local Storage/leveldb/000011.log 
+2024/01/19-18:42:52.728 6 Level-0 table #15: started
+2024/01/19-18:42:52.730 6 Level-0 table #15: 19048 bytes OK
+2024/01/19-18:42:52.732 6 Delete type=0 #11
