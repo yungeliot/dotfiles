@@ -6,9 +6,11 @@ cef_user_data/
 cmus/
 Code/
 Code - OSS/
+chromium/
 dconf/
 discord/
 eduvpn/
+GIMP/
 github-copilot/
 gtk-2.0/
 gtk-3.0/
@@ -37,5 +39,5 @@ mimeapps.list
 trashrc
 zoom.conf
 zoomus.conf
-sublime-text/Local/Auto Save Session.sublime_session
+sublime-text/Local/
 Signal/
